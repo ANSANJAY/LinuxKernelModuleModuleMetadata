@@ -1,6 +1,3 @@
-Alright! Let's break this down using the template you've provided.
-
----
 
 ### **1. Technical Explanation** 📚
 
