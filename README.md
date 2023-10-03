@@ -1,9 +1,3 @@
-# LinuxKernelModuleModuleMetadata
-
-# README.md
-
-## Repository Overview
-
 This repository is a collection of Linux Kernel Modules and relevant documentation focusing on concepts like module information using `MODULE_INFO`, utilizing `modinfo`, and exploring `objdump`. Each directory in this repository illustrates a different aspect or concept related to Linux Kernel Module development.
 
 ### 4_modinfo
