@@ -17,6 +17,6 @@ static void test_hello_exit(void)
 module_init(test_hello_init);
 module_exit(test_hello_exit);
 MODULE_DESCRIPTION("Hello World");
-MODULE_AUTHOR("Linux Trainer <linuxweekendtraining@gmail.com>");
+MODULE_AUTHOR("Anamika");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("1.1.1");
